@@ -1,13 +1,19 @@
 {
   "name": "currency-aggregator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A real-time currency exchange rate aggregator and converter built with Node.js",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "currency",
+    "exchange-rate",
+    "api",
+    "nodejs"
+  ],
+  "author": "preshiy",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
